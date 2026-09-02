@@ -18,9 +18,13 @@ I use Claude to build the lesson and the exercise. Then I do the exercise myself
 
 ## Who it's for
 
-People who write code and have used a chat model, but haven't built with one beyond calling an API. If you can read Python and SQL and you're tired of reading *about* MCP without ever having built one, you're the audience.
+People who've used a chat model and want to build with one properly.
 
-If you've never used an LLM before, start elsewhere and come back — this doesn't explain what a prompt is.
+**What I assume:** you've used Claude or ChatGPT, and you can read code, run it, and tell when it's wrong. You don't have to write much of it — increasingly that's the whole point — but you do need to spot a plausible answer that isn't right.
+
+**What you don't need:** any experience building with an LLM, an ML background, or a job title with "engineer" in it. If you ship things with Claude and read what it gives you, that counts.
+
+If you've never used an LLM at all, start elsewhere and come back — this doesn't explain what a prompt is.
 
 ## This repo
 
