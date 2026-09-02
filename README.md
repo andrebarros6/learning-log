@@ -20,9 +20,9 @@ I use Claude to build the lesson and the exercise. Then I do the exercise myself
 
 People who've used a chat model and want to build with one properly.
 
-**What I assume:** you've used Claude or ChatGPT, and you can read code, run it, and tell when it's wrong. You don't have to write much of it — increasingly that's the whole point — but you do need to spot a plausible answer that isn't right.
+**What I assume:** you've used Claude or ChatGPT, and you can set up checks that tell you whether its output is right — tests, a validation script, a comparison against something you trust. And when the checks pass but something still smells wrong, you can go read the code to find out why. You won't write much of it; increasingly that's the whole point.
 
-**What you don't need:** any experience building with an LLM, an ML background, or a job title with "engineer" in it. If you ship things with Claude and read what it gives you, that counts.
+**What you don't need:** any experience building with an LLM, an ML background, or a job title with "engineer" in it. If you ship things with Claude and check its work rather than trusting it, that counts.
 
 If you've never used an LLM at all, start elsewhere and come back — this doesn't explain what a prompt is.
 
