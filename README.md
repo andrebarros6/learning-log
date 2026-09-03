@@ -42,7 +42,7 @@ Everything here is public and free. The exercises are yours to keep, and they st
 
 Thirty issues, six tracks. You start at issue 1 whenever you join — the sequence doesn't assume you read last week's.
 
-Exercise repos are linked as each issue ships.
+Exercise repos are linked as each issue ships. All are generated from a [common template](https://github.com/andrebarros6/learning-log-exercise-template), so they share the same shape.
 
 ### Track 1 — Working with the models
 
@@ -50,7 +50,7 @@ Getting real output from the chat products.
 
 | # | Issue | Exercise |
 |---|---|---|
-| 1 | What the model actually sees | — |
+| 1 | What the model actually sees | [Exercise](https://github.com/andrebarros6/learning-log-01-what-the-model-sees) |
 | 2 | Prompting as engineering | — |
 | 3 | Structured outputs | — |
 | 4 | Reusable setup | — |
