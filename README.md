@@ -32,7 +32,7 @@ An index. Each issue ships its own public exercise repo; this is where you find 
 
 - **Exercises** — one repo per issue, linked in the table below as they ship
 - **[Discussions](../../discussions)** — one place for questions about any exercise
-- **The issues themselves** — delivered by email, archived at [barrosbuilds.com/log](https://barrosbuilds.com/log)
+- **The issues themselves** — delivered by email; sign up at [barrosbuilds.com/log](https://barrosbuilds.com/log)
 
 Everything here is public and free. The exercises are yours to keep, and they stay updated as the tools change.
 
@@ -139,7 +139,7 @@ More than half are scripts, and that's deliberate rather than drift. Some things
 
 ### Every exercise, in order
 
-1. **Read the issue** — the concept comes first, by email or in the [archive](https://barrosbuilds.com/log).
+1. **Read the issue** — the concept comes first, in the email.
 2. **Open the exercise repo's README** — the theory restated, then *What you'll do*.
 3. **Set up** — clone it and follow the README's setup.
 4. **Run it on the sample.** Every repo ships one, so it works before you bring anything of your own.
@@ -156,5 +156,5 @@ Found a bug in an exercise, or a step that's gone stale as a tool changed? Open 
 
 ## Elsewhere
 
-- **Newsletter and archive** — [barrosbuilds.com/log](https://barrosbuilds.com/log)
+- **Sign up** — [barrosbuilds.com/log](https://barrosbuilds.com/log)
 - **Everything else I'm building** — [barrosbuilds.com](https://barrosbuilds.com)
