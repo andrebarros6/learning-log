@@ -134,7 +134,7 @@ More than half are scripts, and that's deliberate rather than drift. Some things
 
 - **A terminal and git.** Any terminal works. If you don't have a setup you like, use [VS Code](https://code.visualstudio.com/) — it's free, has a terminal built in, and Claude Code runs inside it.
 - **Python 3.10 or newer**, for the script exercises.
-- **An Anthropic API key**, from issue 1. Get one from the [Anthropic Console](https://console.anthropic.com/). This is **separate from a Claude Pro or Max subscription** — having one doesn't give you the other. Each exercise states what it costs to run.
+- **An Anthropic API key**, from issue 1. Get one from the [Claude Console](https://platform.claude.com/). This is **separate from a Claude Pro or Max subscription** — having one doesn't give you the other. Each exercise states what it costs to run.
 - **Claude Code**, from issue 6.
 
 ### Every exercise, in order
